@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Jessa!  
 
-<!--
-**Solelyy/Solelyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently pursuing a **Bachelor of Science in Information Technology** at **Quezon City University (QCU)**.  
+💻 I enjoy working on projects related to **software development, databases, and UI/UX design**.  
+🛠️ I’ve built projects such as a **POS & Inventory Management System**, small **Java applications**, and web-based systems as part of my learning journey.  
 
-Here are some ideas to get you started:
+> ✨ *Always learning, building, and exploring new technologies.*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+- **Languages:** Java, Python, HTML, CSS, JavaScript  
+- **Frameworks & Tools:** JavaFX, Scene Builder, IntelliJ IDEA, MySQL  
+- **Version Control:** Git & GitHub  
+
+---
+
+### 📌 Current Focus
+- Growing my expertise in **Java, Python, front-end development, and databases**  
+- Applying **full-stack integration** to create practical and user-friendly systems  
+- Expanding my portfolio with **real-world projects**  
