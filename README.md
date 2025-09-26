@@ -1,10 +1,21 @@
-<h1 align="center">Hi, I'm Jessa Gozun</h1>
+<h1 align="center">Hi, I'm Jessa Gozun!</h1>
 <p align="center">I am a second-year IT student aspiring to become a Full Stack Developer and Java Developer.</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Solelyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="200" style="margin-right: 20px;" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHplY2Q1aWo0bXN4MmIzd3JybnY4YXdoYjlpMDhzZng4MWF2a3B5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" height="200"/>
-</div>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="top" style="padding-right: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Solelyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="380" />
+      <br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solelyy&layout=compact&theme=tokyonight&hide_border=true" width="380" />
+    </td>
+
+   <td align="center" valign="top">
+     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHplY2Q1aWo0bXN4MmIzd3JybnY4YXdoYjlpMDhzZng4MWF2a3B5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" height="380" />
+      <p align="center"><em>✨ It doesn't matter how slow you go, as long as you don't stop. ✨</em></p>
+
+  </td>
+  </tr>
+</table>
 
 ---
 
@@ -24,7 +35,3 @@
   <img src="https://i.imgur.com/Cs442oh.png" alt="JavaFX Logo" height="50" />
   <img src="https://i.imgur.com/OSvPF7q.png" alt="Scene Builder Logo" height="50" />
 </div>
-
----
-
-<p align="center"><em>✨ Always learning, building, and exploring new technologies. ✨</em></p>
