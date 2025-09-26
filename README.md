@@ -21,6 +21,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij" />
+  <img src="https://i.imgur.com/Cs442oh.png" alt="JavaFX Logo" height="50" />
+  <img src="https://i.imgur.com/OSvPF7q.png" alt="Scene Builder Logo" height="50" />
 </div>
 
 ---
