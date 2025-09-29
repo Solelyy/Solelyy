@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jessa Gozun!</h1>
-<p align="center">I am a second-year IT student aspiring to become a Full Stack Developer.</p>
+<p align="center">I am a second-year IT student aspiring to become a Full-Stack Developer.</p>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
