@@ -1,48 +1,28 @@
-<h1 align="center">Hi, I'm Jessa Gozun!</h1>
-<p align="center"><strong>Full-Stack Developer</strong> — React, TypeScript, Java, Spring Boot, MySQL, HTML, CSS, TailwindCSS, VanillaJS</p>
+![Header](https://camo.githubusercontent.com/dd077fe3917fd58a866028777667b7331647687f76ad8a09ead8da4c1a0c8bcd/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d443942454431266865696768743d3132302673656374696f6e3d686561646572)
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" valign="top" style="padding-right: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Solelyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="380" />
-      <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solelyy&layout=compact&theme=tokyonight&hide_border=true" width="380" />
-    </td>
+<p>
+  <strong>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=400&color=EC4899&width=350&lines=Hi,I'm+Jessa;Full-Stack+Developer;Software+Engineer" alt="Typing Effect">
+  </strong>
+</p>
 
-   <td align="center" valign="top">
-     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHplY2Q1aWo0bXN4MmIzd3JybnY4YXdoYjlpMDhzZng4MWF2a3B5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" height="380" />
-      <p align="center"><em>✨ It doesn't matter how slow you go, as long as you don't stop. ✨</em></p>
+**Frontend** <br>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-  </td>
-  </tr>
-</table>
+**Backend** <br>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-<!-- Streak Section -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Solelyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+**Others** <br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-<div align="center">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="TailwindCSS"/>
-  
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="IntelliJ"/>
-  <img src="https://i.imgur.com/Cs442oh.png" alt="JavaFX" height="50" />
-  <img src="https://i.imgur.com/OSvPF7q.png" alt="Scene Builder" height="50" />
-</div>
-
+**Portfolio Website** <br>
+[![Portfolio Website](https://img.shields.io/badge/🌍-Portfolio-EC4899?style=for-the-badge)](https://jessagozun.vercel.app/)
