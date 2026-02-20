@@ -1,7 +1,7 @@
 ![Header](https://camo.githubusercontent.com/dd077fe3917fd58a866028777667b7331647687f76ad8a09ead8da4c1a0c8bcd/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d443942454431266865696768743d3132302673656374696f6e3d686561646572)
 <p>
   <strong>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=400&color=EC4899&width=350&lines=Hi,I'm+Jessa;Full-Stack+Developer;Software+Engineer" alt="Typing Effect">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=400&color=EC4899&width=350&lines=Hi,I'm+Jessa;Aspiring+Software+Engineer" alt="Typing Effect">
   </strong>
 </p>
 
