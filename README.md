@@ -27,5 +27,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 [![Portfolio Website](https://img.shields.io/badge/🌍-Portfolio%20Website-EC4899?style=for-the-badge)](https://jessagozun.vercel.app/)
+<div align="left">
+<img src="https://streak-stats.demolab.com?user=Solelyy&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" width="80%"/>
+</div>
 
 *"It doesn't matter how slow you go as long as you don't stop."*
